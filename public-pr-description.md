@@ -1,7 +1,7 @@
 This pr was created with colibiri, it includes changes proposed by   
 ${n-users} in ${filename}
 
-Beyond the propsosed changes annotations had been created - open in colibiri to [read more](${colibriurl}).
+Beyond the propsosed changes, **${n-annotations} annotations ** had been created - open in colibiri to [read more](${colibriurl}).
 
 ---
 
